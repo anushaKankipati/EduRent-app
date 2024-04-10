@@ -1,3 +1,21 @@
+To clone:
+Navigate to desired directory
+```
+git clone https://github.com/anushaKankipati/EduRent-app
+npm install OR sudo npm install
+
+// try the following
+npm run dev
+
+// if that doesn't work, then delete node_modules and run
+npm install
+
+// then try
+npm run dev
+
+//and if that doesn't work, you're fucked
+```
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
