@@ -2,6 +2,16 @@ To clone:
 Navigate to desired directory
 ```
 git clone https://github.com/anushaKankipati/EduRent-app
+
+cd into EduRent-app
+
+npm install zustand
+npm install axios
+npm install react-hook-form
+npm install react-hot-toast
+
+If you run into issues with the above, then try adding "sudo" to the front and try again
+
 npm install OR sudo npm install
 
 // try the following
